@@ -1,0 +1,17 @@
+# Django stuff:
+*.log
+local_settings.py
+server/db.sqlite3
+./static/
+./static/*
+images/*
+images/
+./images/
+./images/*
+server/__pycache__/
+server/__pycache__/*
+/server/__pycache__/
+/server/__pycache__/*
+*.sqlite3
+server/__pycache__/
+server/__pycache__/*
