@@ -13,5 +13,5 @@ server/__pycache__/*
 /server/__pycache__/
 /server/__pycache__/*
 *.sqlite3
-server/__pycache__/
+server/__pycache__/     
 server/__pycache__/*
